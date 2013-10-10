@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="daqueduct-logo.svg"
-   inkscape:export-filename="daqueduct-logo-360dpi.png"
-   inkscape:export-xdpi="360"
-   inkscape:export-ydpi="360">
+   inkscape:export-filename="daqueduct-logo-64.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <filter
@@ -191,6 +191,56 @@
          result="fbSourceGraphic"
          values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -2.5 " />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4571-7">
+      <rect
+         style="opacity:0.6;fill:#0d01ff;fill-opacity:1;fill-rule:evenodd;stroke:#c4c4c4;stroke-width:0.22627182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4573-5"
+         width="126.03619"
+         height="29.211823"
+         x="-21.950123"
+         y="818.76331"
+         ry="3.5068331" />
+    </clipPath>
+    <filter
+       id="filter4744-6"
+       inkscape:label="Cross-smooth"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur inner borders and intersections"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4746-1"
+         stdDeviation="3" />
+      <feColorMatrix
+         id="feColorMatrix4748-8"
+         result="fbSourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -2.5 " />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4571-94">
+      <rect
+         style="opacity:0.6;fill:#0d01ff;fill-opacity:1;fill-rule:evenodd;stroke:#c4c4c4;stroke-width:0.22627182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4573-1"
+         width="126.03619"
+         height="29.211823"
+         x="-21.950123"
+         y="818.76331"
+         ry="3.5068331" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4571-94-7">
+      <rect
+         style="opacity:0.6;fill:#0d01ff;fill-opacity:1;fill-rule:evenodd;stroke:#c4c4c4;stroke-width:0.22627182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4573-1-5"
+         width="126.03619"
+         height="29.211823"
+         x="-21.950123"
+         y="818.76331"
+         ry="3.5068331" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -199,7 +249,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.7517522"
+     inkscape:zoom="3.0942117"
      inkscape:cx="84.825609"
      inkscape:cy="30.784108"
      inkscape:document-units="px"
@@ -264,14 +314,27 @@
        style="font-size:24.81982803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
        x="4.8424649"
        y="848.39111"
-       id="text3422"
+       id="text3422-6"
        sodipodi:linespacing="125%"
-       transform="matrix(0.81196287,0,0,1.9902567,-2.6520219e-8,-646.326)"
-       clip-path="url(#clipPath4571)"><tspan
+       transform="matrix(2.7389048,0,0,2.500008,-7.2990634,-1073.2038)"
+       clip-path="url(#clipPath4571-94)"><tspan
          sodipodi:role="line"
-         id="tspan3424"
+         id="tspan3424-20"
          x="4.8424649"
-         y="848.39111">0 0 0</tspan></text>
+         y="848.39111">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.81982803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+       x="4.8424649"
+       y="848.39111"
+       id="text3422-6-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0354786,0,0,1.7012293,17.54261,-397.57271)"
+       clip-path="url(#clipPath4571-94-7)"><tspan
+         sodipodi:role="line"
+         id="tspan3424-20-3"
+         x="4.8424649"
+         y="848.39111">0</tspan></text>
     <rect
        ry="7.5920758"
        y="991.40009"
@@ -299,6 +362,27 @@
        clip-path="url(#clipPath4571-9)"><tspan
          sodipodi:role="line"
          id="tspan3424-2"
+         x="4.8424649"
+         y="848.39111">0 0 0</tspan></text>
+    <rect
+       ry="7.5920758"
+       y="1081.3723"
+       x="102.32458"
+       height="60.355972"
+       width="60.355972"
+       id="rect4320-8"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#0900c0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.69999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4744-6)" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.81982803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+       x="4.8424649"
+       y="848.39111"
+       id="text3422-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.81196287,0,0,1.9902567,100.50257,-555.13788)"
+       clip-path="url(#clipPath4571-7)"><tspan
+         sodipodi:role="line"
+         id="tspan3424-5"
          x="4.8424649"
          y="848.39111">0 0 0</tspan></text>
   </g>
